@@ -8,4 +8,4 @@ Now from here you will be able to download at [here](https://github.com/MedPocke
 ## LICENSE
 Please bear in mind that we do not own copyrights to this book/software.
 We’re sharing this with our audience ONLY for educational purpose and we highly encourage our visitors to purchase original licensed software/Books.
-If someone with copyrights wants us to remove this software/Book, please contact me immediately.
+If someone with copyrights wants us to remove this software/Book, please contact us immediately.
